@@ -54,6 +54,7 @@ To learn more about your projects, click [here](https://github.com/ga-students/D
 | 20 | Tue Jan 23 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
 
 *(Syllabus last updated on 11-02-2017)*
+* To be rescheduled
 
 ## Installation and Setup
 
