@@ -31,21 +31,6 @@ Look at how your model performs compared to a dummy model, and articulate the be
 - **Bonus:**
     - Many modeling approaches are all about fine-tuning the algorithm parameters and trying to find a specific value. Show how you optimized for this value, and the costs/benefits of doing so.
 
-- **Submission:**	
-  - TBD by instructor.
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
-| Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
-| Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
-
 ---
 
 ### EVALUATION
