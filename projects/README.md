@@ -33,4 +33,4 @@ In order to pass this course, General Assembly students **must**:
 
 ## Project Examples
 
-Feel free to [check](https://github.com/ga-students/DAT-DEN-03/tree/master/projects/Project%20Examples) some examples of final project
+Feel free to [check](https://github.com/ga-students/DAT-DEN-03/tree/master/projects/Project%20Examples) some examples of previous final projects.
