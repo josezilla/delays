@@ -8,7 +8,7 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 
 ## Project Submission
 
-Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
+Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/UqNVu7Z067ivqkoF2).
 
 ## Project Directory
 
