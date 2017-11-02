@@ -13,7 +13,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 **Meets Expectations**: Did you: Identify trends and outliers? Apply descriptive and inferential statistics? Document and transform data?
 
 #### Performance Evaluation
-> Mark boxes with an 'X'
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
