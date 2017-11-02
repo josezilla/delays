@@ -57,3 +57,9 @@ Student projects and assignments can be submitted through the [Submission Form](
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
 For any other questions not related to the course materials, feel free to contact studentservicesDEN@ga.co
+
+## Installation and Setup
+
+* Install the Anaconda distribution of Python 2.7x.
+* Install Git and create a GitHub account.
+* Once you receive an email invitation from Slack, join our "dat3 team" (https://gadenver.slack.com/messages/G7HK3QLPL/details/)
