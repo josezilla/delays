@@ -20,18 +20,6 @@ In this project, you will perform a logistic regression on the admissions data w
 - **Bonus:** 
     - Plot the predicted probabilities
     - Brainstorm ways to improve your analysis
-
-- **Submission:**
-    - TBD by Instructor
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 9 | Project 3  | Basic Modeling Assignment  |
-
 ---
 
 ### EVALUATION
