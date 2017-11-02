@@ -1,5 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_14](https://github.com/ga-students/DS_HK_14)
 
+Exit tickets: https://docs.google.com/forms/d/1SuluMpQZyu3gDzCegfqdcP3sHzgqmP39eOowM1xgKFY/edit?ts=59fb616d
+
+
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (Tuesday 25th July 2017 -)
 
 * Tuesdays and Thursdays; 7-10pm;
