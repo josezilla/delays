@@ -4,10 +4,10 @@
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver
 
 
-* Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Nov 23, Dec 26, Dec 28, Jan 15
-* Time: Tuesdays and Thursdays; 6:30-9:30pm
-* Address: 3001 Brighton Boulevard, Denver, CO
-* Office hours: Tuesday an Thursday between 5:00pm and 6:30pm (right before class)
+* Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Nov 23, Dec 26, and Dec 28.
+* Time: Tuesdays and Thursdays; 6:30-9:30pm.
+* Address: 3001 Brighton Boulevard, Denver, CO.
+* Office hours: Tuesday an Thursday between 5:00pm and 6:30pm (right before class).
 
 ## Your Team
 **Instructor:**
@@ -30,7 +30,7 @@ To learn more about your projects, click [here](https://github.com/ga-students/D
 
 ## Schedule
 
-| Class | Date | Topic | Due |
+| Class | Date | Topic | Due (before of class) |
 |:---:|:---|:---:|:---:|
 | 1 | Tue Nov 7 | [Intro to Data Science](lessons/lesson-01) | |
 | 2 | Thu Nov 9 | [Intro to git/_pandas_](lessons/lesson-02) | |
@@ -41,7 +41,7 @@ To learn more about your projects, click [here](https://github.com/ga-students/D
 | 7 | Thu Nov 30 | [Linear Regression and Model Fit, Part 2](lessons/lesson-07) |[Unit Project 2](projects/unit-projects/project-2)||
 | 8 | Tue Dec 5 | [k-Nearest Neighbors](lessons/lesson-08) |[Final Project 1](projects/final-projects/01-lightning-talk)|
 | 9 | Thu Dec 7 | [Logistic Regression](lessons/lesson-09) | |
-| 10 | *Tue Dec 12* | [Advanced Metrics and Communicating Results](lessons/lesson-10) ||
+| 10 | *#Tue Dec 12#* | [Advanced Metrics and Communicating Results](lessons/lesson-10) ||
 | 11 | Thu Dec 14 | [Decision Trees and Random Forests](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
 | 12 | Tue Dec 19 | [Natural Language Processing](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | Thu Dec 21 | [Latent Variables and NLP](lessons/lesson-13) | |
