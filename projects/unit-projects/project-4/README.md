@@ -25,18 +25,6 @@ In this project, you will summarize and present your analysis from Projects 1-3.
 - **Bonus:**
     - Always consider your audience - what do they already know vs. what should you define or explain?
     - Visualize your findings! Use charts, graphs, or other images as appropriate.
-
-- **Submission:**
-    - TBD by instructor.
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 11 | Project 4  | Notebook with Executive Summary   |
-
 ---
 
 ### EVALUATION
