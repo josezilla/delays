@@ -11,7 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Exit Ticket
 
-Fill this [exit ticket] (https://goo.gl/forms/J0xipfaBslbXnnXy2)out at the end of each class! 
+Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end of each class! 
 
 ## Assignment Submissions
 
