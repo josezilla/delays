@@ -32,22 +32,6 @@ In this assignment, you will explore and visualize your initial analysis in orde
 - **Bonus:**
    - Surface and share your analysis online. Jupyter makes this very simple and the setup should not take long.
    - Try experimenting with other visualization languages; python/pandas-highcharts, shiny/r, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
-
-- **Submission:**
-   - TBD by instructor.
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
-| Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
-| Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
-
 ---
 
 ### EVALUATION
