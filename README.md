@@ -9,6 +9,15 @@ Course materials for [General Assembly's Data Science course](https://generalass
 * Address: 3001 Brighton Boulevard, Denver, CO
 * Office hours: Tuesday an Thursday between 5:00pm and 6:30pm (right before class)
 
+## Your Team
+**Instructor:**
++ [Abbas Chokor, Ph.D.](mailto:abbas.chokor@gmail.com)
+
+**Course Coordinator:**
++ [Brooke Smith](mailto:brookes@generalassembly.ly)
+
+For any other questions not related to the course materials, feel free to contact [studentservicesDEN@ga.co](mailto:studentservicesDEN@ga.co).
+
 ## Exit Ticket
 
 Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end of each class! 
@@ -45,15 +54,6 @@ To learn more about your projects, click [here](https://github.com/ga-students/D
 | 20 | | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
 
 *(Syllabus last updated on 11-02-2017)*
-
-## Your Team
-**Instructor:**
-+ [Abbas Chokor, Ph.D.](mailto:abbas.chokor@gmail.com)
-
-**Course Coordinator:**
-+ [Brooke Smith](mailto:brookes@generalassembly.ly)
-
-For any other questions not related to the course materials, feel free to contact [studentservicesDEN@ga.co](mailto:studentservicesDEN@ga.co).
 
 ## Installation and Setup
 
