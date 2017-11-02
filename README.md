@@ -49,14 +49,9 @@ Student projects and assignments can be submitted through the [Submission Form](
 
 *(Syllabus last updated on 2016-07-18)*
 
-Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_14-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no)
-.
-
 ## Your Team
-
 **Instructor:**
 + [Abbas Chokor](mailto:abbas.chokor@gmail.com)
-
 **Course Coordinator:**
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
