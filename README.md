@@ -60,3 +60,12 @@ For any other questions not related to the course materials, feel free to contac
 * Install the [Anaconda](https://anaconda.org) distribution of Python 2.7x.
 * Install [Git](https://git-scm.com) and create a [GitHub](https://github.com) account.
 * Once you receive an email invitation from [Slack](https://slack.com), join our "[dat3 team](https://gadenver.slack.com/messages/G7HK3QLPL/details/)"!
+
+Here are some useful student-facing materials, including prework, our course syllabus, the data science workflow, and a data science vocabulary guide:
+
+- [Data Science Pre-Work](https://docs.google.com/document/d/1xoC18JHk880C9n_cAPCsGn-sNqexPgTIIkmUd7cTJQw/edit?usp=sharing)
+- [Technical Installation Guide](../resources/instructor-resources/tech-guide.md)
+- [Course Syllabus](./ds-syllabus.pdf)
+- [Python Self-Assessment Quiz](./python-self-assessment.md)
+- [Data Science Workflow](./data-science-workflow-final.jpg)
+- [Data Science Vocabulary Guide](./ds-vocab.md)
