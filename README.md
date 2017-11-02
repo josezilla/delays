@@ -62,4 +62,4 @@ For any other questions not related to the course materials, feel free to contac
 
 * Install the Anaconda distribution of Python 2.7x.
 * Install Git and create a GitHub account.
-* Once you receive an email invitation from Slack, join our "[dat3 team](https://gadenver.slack.com/messages/G7HK3QLPL/details/)"
+* Once you receive an email invitation from [Slack](https://slack.com), join our "[dat3 team](https://gadenver.slack.com/messages/G7HK3QLPL/details/)"
