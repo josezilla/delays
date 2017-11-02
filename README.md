@@ -4,10 +4,10 @@
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver
 
 
-* Schedule: NOV 7, 2017 to JAN 23, 2018 - Except: Oct 9, Nov 23, Dec 26, Dec 28, Jan 15
+* Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Oct 9, Nov 23, Dec 26, Dec 28, Jan 15
 * Time: Tuesdays and Thursdays; 6:30-9:30pm
 * Address: 3001 Brighton Boulevard, Denver, CO
-* Office hours: Tue/Thurs: 5:00pm - 6:30pm (right before class)
+* Office hours: Tuesday an Thursday between 5:00pm and 6:30pm (right before class)
 
 ## Exit Ticket
 
