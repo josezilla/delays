@@ -1,7 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science: Final Project
 
-> The Final Project is divided into 5 deliverables, each building on top of skills learned previously to scaffold students' learning over the entire course.
-
 Each project deliverable includes objectives, requirements, starter-code, rubric, and suggested resources - all of which tie into the overall competencies for this course.
 
 <!-- See the [feedback guidelines](../project-feedback.md) to read more about how we provide feedback to students. -->
