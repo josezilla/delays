@@ -28,17 +28,6 @@ Note: You'll be working with two scenarios in this project and one dataset.
     - Practice writing an alternative problem statement for your dataset
     - Articulate the risks and assumptions of this alternative model
 
-- **Submission:**
-    - TBD by Instructor 
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 3 | Project 1  | Research Design Write-Up   |
-
 ---
 
 ### EVALUATION
