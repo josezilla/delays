@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Projects
 
-> Globally, we have 4 Unit Projects and 1 Final Project (subdivided into 5 deliverables). Each builds on top of previously learned skills to scaffold student performance over the entire course.
+In this course, we have 4 Unit Projects and 1 Final Project (subdivided into 5 deliverables). Each builds on top of previously learned skills to scaffold student performance over the entire course.
 
 ## Project Specs
 
@@ -31,5 +31,6 @@ In order to pass this course, General Assembly students **must**:
 - Complete and submit 80% of all course homework assignments.
 - Complete and submit the final project, including all 5 milestones.
 
+## Project Examples
 
-
+Feel free to [check]() some examples of final project
