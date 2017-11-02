@@ -7,6 +7,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 * Schedule: NOV 7, 2017 to JAN 23, 2018 - Except: Oct 9, Nov 23, Dec 26, Dec 28, Jan 15
 * Time: Tuesdays and Thursdays; 6:30-9:30pm
 * Address: 3001 Brighton Boulevard, Denver, CO
+* Office hours: Tue/Thurs: 5:00pm - 6:30pm (right before class)
 
 ## Exit Ticket
 
