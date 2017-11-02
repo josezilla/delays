@@ -27,7 +27,7 @@ DS | Lesson 1
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 
-- Review course [syllabus](../../resources/instructor-resources/ds-syllabus.pdf) and [lesson structure](../README.md)
+- Review course syllabus and lesson structure
 - Read through our [lesson preparation guide](../../resources/instructor-resources/instructor-prep.md)
 - Review Unit 1 [projects](../../projects/README.md)
 - Add to the "Additional Resources" section for this lesson
