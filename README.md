@@ -3,11 +3,11 @@
 Exit tickets: https://docs.google.com/forms/d/1SuluMpQZyu3gDzCegfqdcP3sHzgqmP39eOowM1xgKFY/edit?ts=59fb616d
 
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (Tuesday 25th July 2017 -)
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver
 
-* Tuesdays and Thursdays; 7-10pm;
-* Batman, 8/F, Garage Society, 33 Des Voeux Road, Central
-* The are no public holidays during this course.
+
+* Tuesdays and Thursdays; 6:30-9:30pm (NOV 7, 2017 to JAN 23, 2018 - Except: Oct 9, Nov 23, Dec 26, Dec 28, Jan 15)
+* 3001 Brighton Boulevard, Denver, CO
 
 ## Assignment Submissions
 
