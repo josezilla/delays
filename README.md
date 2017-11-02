@@ -56,4 +56,4 @@ Student projects and assignments can be submitted through the [Submission Form](
 **Course Coordinator:**
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
-For any other questions not related to the course materials, feel free to contact (mailto:studentservicesDEN@ga.co)
+For any other questions not related to the course materials, feel free to contact studentservicesDEN@ga.co
