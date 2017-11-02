@@ -32,14 +32,9 @@ To learn more about your projects, click [here](https://github.com/ga-students/D
 Our lessons contain objectives, prerequisites, suggested datasets, starter and solution code, and other instructional resources, tying into the overall competencies for each unit. See below for a complete description of all the lesson planning material we provide.
 
 General Assembly's Data Science course is made up of 20 lessons that are 3 hours each. This course is split into 3 units.
-
-## Unit Breakdown
-
-| Unit | Title | Lessons Provided | Flex Session |
-| --- | --- |  --- | --- |
-| Unit 1 | Research Design & Data Analysis | Lessons 1 - 4  | Lesson 5 |
-| Unit 2 | Foundations of Modeling | Lessons 6 - 10 | Lesson 11 |
-| Unit 3 | Data Science in the Real World| Lessons 12 - 18 | Lesson 19 |
+* Unit 1: Research Design & Data Analysis - Lessons 1 to 5
+* Unit 2: Foundations of Modeling - Lessons 6 to 11
+* Unit 3: Data Science in the Real World - Lessons 12 to 19
 
 Below is a detailed scheduled of our class:
 
