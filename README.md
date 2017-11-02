@@ -41,29 +41,43 @@ Below is a detailed schedule of our class:
 | Class | Date | Topic | Due (before class) |
 |:---:|:---|:---:|:---:|
 | 1 | Tue Nov 7 | [Intro to Data Science](lessons/lesson-01) | |
-| 2 | Thu Nov 9 | Intro to git/_pandas | |
+| 2 | Thu Nov 9 | Research Design & Pandas | |
 | 3 | Tue Nov 14 | Statistics Fundamentals I | |
 | 4 | Thu Nov 16 | Statistics Fundamentals II |[Unit Project 1](projects/unit-projects/project-1)|
-| 5 | Tue Nov 21 | APIs and Getting Data | |
+| 5 | Tue Nov 21 | Indsutrial Data Science | |
 | 6 | Tue Nov 28 | Linear Regression | |
 | 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | Unit Project 2|
-| 8 | Tue Dec 5 | k-Nearest Neighbors|Final Project 1|
+| 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
 | 9 | Thu Dec 7 | Logistic Regression | |
 | 10 | *Tue Dec 12** | Advanced Metrics and Communicating Results ||
-| 11 | Thu Dec 14 | Decision Trees and Random Forests](lessons/lesson-11) |Unit Project 3|
-| 12 | Tue Dec 19 | Natural Language Processing |Final Project 2|
-| 13 | Thu Dec 21 | Latent Variables and NLP| |
-| 14 | Tue Jan 2 | Intro to Time Series Analysis |Final Project 2|
-| 15 | Thu Jan 4 | Time Series Modeling |Final Project 3|
-| 16 | Tue Jan 9 | Intro to Databases | |
-| 17 | Thu Jan 11 | Advancing in Data Science | Unit Project 4 |
-| 18 | Tue Jan 16 | Wrapping Up and Next Steps | Final Project 4|
-| 19 | Thu Jan 18| Final Project Presentations | |
-| 20 | Tue Jan 23 | Final Project Presentations, Part 2 | Final Project 5|
+| 11 | Thu Dec 14 | Clustering |Unit Project 3|
+| 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
+| 13 | Thu Dec 21 |Natural Language Processing | |
+| 14 | Tue Jan 2 | Dimesionality Reduction | Final Project 2|
+| 15 | Thu Jan 4 | Intro to Time Series Analysis | Final Project 3|
+| 16 | Tue Jan 9 | Time Series Modeling | |
+| 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
+| 18 | Tue Jan 16 | Advancing in Data Science | Final Project 4|
+| 19 | Thu Jan 18| Neural Networks & Deep Learning | |
+| 20 | Tue Jan 23 | Final Project Presentation | Final Project 5|
 
 *(Syllabus last updated on 11-02-2017)*
 
 *To be rescheduled
+
+| Class | Title |  | Class | Title |
+| --- | :---: | --- |  --- | :---: |
+| Lesson 1 | [What is Data Science](./lesson-01/README.md) || Lesson 11 | *Flex Session (suggestion: [Clustering](./lesson-11-flex/)) |
+| Lesson 2 | [Research Design & Pandas](./lesson-02/README.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/README.md)|
+| Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/README.md) || Lesson 13 | [NLP with Classification](./lesson-13/README.md) |
+| Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/README.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/README.md) |
+| Lesson 5 | *[Tool Review / Flex Session](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md) |
+| Lesson 6 | [Intro to Linear Regression](./lesson-06/README.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/README.md) |
+| Lesson 7 | [Evaluating Model Fit](./lesson-07/README.md) || Lesson 17 | [Data Science Databases](./lesson-17/README.md) |
+| Lesson 8 | [Intro to Classification](./lesson-08/README.md)|| Lesson 18 | [Data Science Careers](./lesson-18/README.md) |
+| Lesson 9 | [Intro to Logistic Regression](./lesson-09/README.md) || Lesson 19 | *Flex Session (Suggestion: [Neural Networks](./lesson-19-flex/)) |
+| Lesson 10 | [Communicating Model Results](./lesson-10/README.md) ||Lesson 20 | Final Project Demo Day | 
+
 
 ## Installation and Setup
 
