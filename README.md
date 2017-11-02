@@ -11,43 +11,38 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Exit Ticket
 
-[Fill me out at the end of each class!](https://goo.gl/forms/J0xipfaBslbXnnXy2)
+Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end of each class! 
 
 ## Assignment Submissions
 
 Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
 
-
 ## Schedule
 
-| Week | Date | Class | Assigned | Due |
-|:---:|:---:|:---|:---|:---|
-| 0 | PRE | [Onboarding](https://docs.google.com/document/d/1N-zVkcYfUiWuTLCqOwNihyx9ysI8JCxfe4Vh419zzGM/) | | |
-| | | | **Unit 1 - Research Design and Exploratory Data Analysis** | | |
-| 1 | 2017-07-25 | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
-| 1 | 2017-07-27| [Research Design and _pandas_](./lessons/lesson-02) | | |
-| 2 | 2017-08-01 | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
-| 2 | 2017-08-03 | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./projects/unit-projects/project-3)** | |
-| 3 | 2017-08-08 | [Exploratory Data Analysis](./lessons/lesson-05) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
-| | | | **Unit 2 - Foundations of Data Modelling** | | |
-| 3 | 2017-08-10 | [Introduction to Linear Regression](./lessons/lesson-06) | | |
-| 4 | 2017-08-15 | [Evaluating Model Fit](./lessons/lesson-07) | | |
-| 4 | 2017-08-17 | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
-| 5 | 2017-08-22 | [Intro to Logistic Regression](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
-| 5 | 2017-08-24 | [Decision Trees / Random Forest](./lessons/lesson-10) | |**[Unit Project 3](./projects/unit-projects/project-3)**|
-| 6 | 2017-08-29 | [Communicating Model Results](./lessons/lesson-11) | | [Install Spacy](https://spacy.io/docs/usage/) |
-| 6 | 2017-08-31 | [NLP with Classification](./lessons/lesson-12) | | |
-| | | | **Unit 3 - Data Science in the Real World** | | |
-| 7 | 2017-09-05 | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
-| 7 | 2017-09-07 | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** and **[Unit Project 4](./projects/unit-projects/project-4)** |
-| 8 | 2017-09-12 | [Time Series Data](./lessons/lesson-15) | | |
-| 8 | 2017-09-14 | [Modelling Time Series Data](./lessons/lesson-16) | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft)** | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** |
-| 9 | 2017-09-19 | [Kaggle Competition](./lessons/lesson-17) | | |
-| 9 | 2017-09-21 | [Data Science Pipelines](./lessons/lesson-18) | **[Final Project 5](./projects/final-projects/05-presentation)** | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft)** |
-| 10 | 2017-09-26| Final Project Labs | | **[Final Project](./projects/final-projects/05-presentation)** |
-| 10 | 2017-09-28 | Final Project Presentations | | **[Final Project](./projects/final-projects/05-presentation)** |
+| Class | Date | Topic | Due |
+|:---:|:---|:---:|:---:|
+| 1 |  | [Intro to Data Science](lessons/lesson-01) | |
+| 2 |  | [Intro to git/_pandas_](lessons/lesson-02) | |
+| 3 |  | [Statistics Fundamentals I](lessons/lesson-03) | |
+| 4 |  | [Statistics Fundamentals II](lessons/lesson-04) |[Unit Project 1](projects/unit-projects/project-1)|
+| 5 |  | [APIs and Getting Data](lessons/lesson-05) | |
+| 6 |  | [Linear Regression](lessons/lesson-06) | |
+| 7 |  | [Linear Regression and Model Fit, Part 2](lessons/lesson-07) |[Unit Project 2](projects/unit-projects/project-2)||
+| 8 |  | [k-Nearest Neighbors](lessons/lesson-08) |[Final Project 1](projects/final-projects/01-lightning-talk)|
+| 9 |  | [Logistic Regression](lessons/lesson-09) | |
+| 10 | | [Advanced Metrics and Communicating Results](lessons/lesson-10) ||
+| 11 | | [Decision Trees and Random Forests](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
+| 12 | | [Natural Language Processing](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 13 | | [Latent Variables and NLP](lessons/lesson-13) | |
+| 14 | | [Intro to Time Series Analysis](lessons/lesson-14) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 15 | | [Time Series Modeling](lessons/lesson-15) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
+| 16 | | [Intro to Databases](lessons/lesson-16) | |
+| 17 | | [Advancing in Data Science](lessons/lesson-17) | [Unit Project 4](projects/unit-projects/project-4) |
+| 18 | | Wrapping Up and Next Steps | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
+| 19 | | Final Project Presentations | |
+| 20 | | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
 
-*(Syllabus last updated on 2016-07-18)*
+*(Syllabus last updated on 11-02-2017)*
 
 ## Your Team
 **Instructor:**
@@ -56,10 +51,10 @@ Student projects and assignments can be submitted through the [Submission Form](
 **Course Coordinator:**
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
-For any other questions not related to the course materials, feel free to contact studentservicesDEN@ga.co
+For any other questions not related to the course materials, feel free to contact [studentservicesDEN@ga.co](mailto:studentservicesDEN@ga.co).
 
 ## Installation and Setup
 
-* Install the Anaconda distribution of Python 2.7x.
+* Install the [Anaconda](https://anaconda.org) distribution of Python 2.7x.
 * Install [Git](https://git-scm.com) and create a [GitHub](https://github.com) account.
 * Once you receive an email invitation from [Slack](https://slack.com), join our "[dat3 team](https://gadenver.slack.com/messages/G7HK3QLPL/details/)"!
