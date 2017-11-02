@@ -13,7 +13,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 **Meets Expectations**: Did you: Document and transform your data? Apply descriptive and inferential statistics? Identify trends and outliers? Application of these learning goals will be assessed using the requirements below:
 
 #### Performance Evaluation
-> Mark boxes with an 'X'
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
