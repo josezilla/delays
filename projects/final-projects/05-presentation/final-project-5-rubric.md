@@ -14,7 +14,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 **Meets Expectations**: Did you: Summarize findings with narrative techniques? Present limitations and assumptions of your analysis? Identify follow-up problems and questions for future analysis?
 
 #### Performance Evaluation
-> Mark boxes with an 'X'
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
