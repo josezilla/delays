@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-DEN-03](https://github.com/ga-students/DAT-DEN-03)
 
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. You can also check this website: 
 
 
 * Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Nov 23, Dec 26, and Dec 28.
@@ -44,7 +44,7 @@ Below is a detailed schedule of our class:
 | 2 | Thu Nov 9 | Research Design & Pandas | |
 | 3 | Tue Nov 14 | Statistics Fundamentals I | |
 | 4 | Thu Nov 16 | Statistics Fundamentals II |[Unit Project 1](projects/unit-projects/project-1)|
-| 5 | Tue Nov 21 | Intro to Indsutrial Data Science | |
+| 5 | Tue Nov 21 | Intro to Industrial Data Science | |
 | 6 | Tue Nov 28 | Linear Regression | |
 | 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | Unit Project 2|
 | 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
