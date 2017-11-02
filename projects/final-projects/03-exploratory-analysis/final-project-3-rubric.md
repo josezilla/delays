@@ -13,7 +13,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 **Meets Expectations**: Did you: Review and document your data? Perform an exploratory analysis? Verify the quality of your data? Application of these learning goals will be assessed using the requirements below:
 
 #### Performance Evaluation
-> Mark boxes with an 'X'
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
