@@ -51,7 +51,8 @@ Student projects and assignments can be submitted through the [Submission Form](
 
 ## Your Team
 **Instructor:**
-+ [Abbas Chokor](mailto:abbas.chokor@gmail.com)
++ [Abbas Chokor, Ph.D.](mailto:abbas.chokor@gmail.com)
+
 **Course Coordinator:**
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
