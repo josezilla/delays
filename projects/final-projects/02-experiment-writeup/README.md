@@ -26,22 +26,6 @@ Remember, completing this task earlier will give you more chances to iterate and
 - **Bonus:**
     - Consider alternative hypotheses: if your project is a regression problem, is it possible to rewrite it as a classification problem?
     - "Convert" your goal metric from a statistical one (like Mean Squared Error) and tie it to something non-data people can understand, like a cost/benefit analysis, etc.
-
-- **Submission:**	 
-  - TBD by instructor. 
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
-| Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
-| Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
-
 ---
 
 ### EVALUATION
