@@ -63,24 +63,6 @@ A 10 to 20 slide deck consisting of:
   * An Acknowledgements Slide is always a good idea :)
   * You might also include a Citations Slide, if necessary
 
-**Submission:**	
-
-  - Final format and submission location are TBD by instructor.
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
-| Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
-| Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
-
----
-
 ### EVALUATION
 
 Your project will be assessed using the following standards:
