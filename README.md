@@ -10,10 +10,13 @@ Course materials for [General Assembly's Data Science course](https://generalass
 * Time: Tuesdays and Thursdays; 6:30-9:30pm
 * Address: 3001 Brighton Boulevard, Denver, CO
 
+## Exit Ticket
+
+[Fill me out at the end of each class!](https://docs.google.com/forms/d/1HM-kP6zUBUpz2H1D6Ij-yCIaBPG0H09hv5VNseiHVyw/viewform?c=0&w=1)
+
 ## Assignment Submissions
 
 Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
-
 
 
 ## Schedule
