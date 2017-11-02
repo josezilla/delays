@@ -6,6 +6,10 @@ In this course, we have 4 Unit Projects and 1 Final Project (subdivided into 5 d
 
 Each project includes objectives, requirements, starter-code, rubric, and suggested resources - all of which tie into the overall competencies for each unit. Dive into the detailed project spec files to read more about each project.
 
+## Project Submission
+
+Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
+
 ## Project Directory
 
 1. **[Unit Projects](./unit-projects/README.md)**
@@ -34,7 +38,3 @@ In order to pass this course, General Assembly students **must**:
 ## Project Examples
 
 Feel free to [check](https://github.com/ga-students/DAT-DEN-03/tree/master/projects/Project%20Examples) some examples of previous final projects.
-
-## Project Submission
-
-Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
