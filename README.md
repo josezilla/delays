@@ -53,12 +53,9 @@ Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_H
 
 ## Your Team
 
-**Instructors:**
+**Instructor:**
++ [Abbas Chokor](mailto:abbas.chokor@gmail.com)
 
-+ [Mart van de Ven](mailto:m@droste.hk)
-+ [Dickson Kwong](mailto:dickson@droste.hk)
-+ [Alex Anzola Jürgenson](mailto:alex@droste.hk)
+**Course Coordinator:**
++ [Brooke Smith](mailto:brookes@generalassembly.ly)
 
-## Facebook
-
-You've all been invited to use [Facebook](https://www.facebook.com/groups/1513670858707270/) for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
