@@ -47,7 +47,7 @@ Student projects and assignments can be submitted through the [Submission Form](
 | 10 | 2017-09-26| Final Project Labs | | **[Final Project](./projects/final-projects/05-presentation)** |
 | 10 | 2017-09-28 | Final Project Presentations | | **[Final Project](./projects/final-projects/05-presentation)** |
 
-*(Syllabus last updated on 2016-07-18)*
+*(Syllabus last updated on 11-02-2017)*
 
 ## Your Team
 **Instructor:**
@@ -56,7 +56,7 @@ Student projects and assignments can be submitted through the [Submission Form](
 **Course Coordinator:**
 + [Brooke Smith](mailto:brookes@generalassembly.ly)
 
-For any other questions not related to the course materials, feel free to contact studentservicesDEN@ga.co
+For any other questions not related to the course materials, feel free to contact [studentservicesDEN@ga.co](mailto:studentservicesDEN@ga.co).
 
 ## Installation and Setup
 
