@@ -17,7 +17,6 @@ Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end o
 
 Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
 
-
 ## Schedule
 
 | Class | Date | Topic | Due |
