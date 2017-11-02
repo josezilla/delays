@@ -3,7 +3,7 @@
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. 
 
-You can also check this website: https://ga-students.github.io/DAT-DEN-03/ 
+You can also check this website: [https://ga-students.github.io/DAT-DEN-03/](https://ga-students.github.io/DAT-DEN-03/)
 
 
 ## Course Details
