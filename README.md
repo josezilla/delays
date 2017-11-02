@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT_DEN_03](https://github.com/ga-students/DAT-DEN-03)
-
-Exit tickets: https://docs.google.com/forms/d/1SuluMpQZyu3gDzCegfqdcP3sHzgqmP39eOowM1xgKFY/edit?ts=59fb616d
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-DEN-03](https://github.com/ga-students/DAT-DEN-03)
 
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver
