@@ -1,11 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Lessons
 
-> Globally, we have 3 Units in Data Science, each building on top of skills learned previously to scaffold students' learning over the entire course.
 
 Our lessons contain objectives, prerequisites, suggested datasets, starter and solution code, and other instructional resources, tying into the overall competencies for each unit. See below for a complete description of all the lesson planning material we provide.
-
-> Instructors should review our [preparatory instructions](../resources/instructor-resources/instructor-prep.md) or read up on our [feedback guidelines](../projects/project-feedback.md) for debriefing student assignments.
-
 
 General Assembly's Data Science course is made up of 20 lessons that are 3 hours each. This course is split into 3 units.
 
