@@ -17,7 +17,7 @@ Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end o
 
 In this course, we have 4 Unit Projects and 1 Final Project (subdivided into 5 deliverables). Each builds on top of previously learned skills to scaffold your performance over the entire course. 
 
-To learn more about your projects, check this [page](https://github.com/ga-students/DAT-DEN-03/blob/master/projects/README.md).
+To learn more about your projects, click [here](https://github.com/ga-students/DAT-DEN-03/blob/master/projects/README.md)!
 
 ## Schedule
 
