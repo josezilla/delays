@@ -13,9 +13,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Fill this [exit ticket](https://goo.gl/forms/J0xipfaBslbXnnXy2) out at the end of each class! 
 
-## Assignment Submissions
+## Projects
 
-Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
+In this course, we have 4 Unit Projects and 1 Final Project (subdivided into 5 deliverables). Each builds on top of previously learned skills to scaffold student performance over the entire course. To learn more about your projects, check this [page]( )
 
 ## Schedule
 
