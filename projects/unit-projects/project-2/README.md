@@ -29,18 +29,7 @@ Following these steps will help you better understand your dataset.
     - Replace missing values using the median replacement method
     - Log transform data to meet normality requirements
     - Advanced Option: Replace missing values using multiple imputation methods
-
-- **Submission:**
-    - Instructor TBD
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 5 | Project 2  | Exploratory Data Analysis   |
-
+    
 ---
 
 ### EVALUATION
