@@ -30,23 +30,6 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 - **Bonus:**
     - High level data points can help show the "improvement" scope that's available
     - Cite similar/previous work that will better inform your strategy that can be taken
-
-- **Submission:**	
-    * Present materials in class
-    * Submit presentation to instructor via email.
-
----
-
-### TIMELINE
-
-| Deadline | Deliverable| Description |
-|:-:|---|---|
-| Lesson 8 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
-| Lesson 14 | Part 2 - Experiment Writeup  |  Research Design Problem Statement & Outline   |
-| Lesson 16 | Part 3 - Exploratory Analysis  | Dataset Approval and Exploratory Analysis   |
-| Lesson 18 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| Lesson 20 | Part 5 - Presentation  | Present Your Final Report   |
-
 ---
 
 ### EVALUATION
