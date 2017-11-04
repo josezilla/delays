@@ -83,4 +83,6 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Python Self-Assessment Quiz](./python-self-assessment.md)
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
-- [Python cheat sheets](https://www.datacamp.com/community/data-science-cheatsheets)
+- [Python Cheat Sheets](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
+- [Pandas Cheat Sheets](http://datacamp-community.s3.amazonaws.com/ef72e7cf-4768-4ff0-8e90-dfd7a1b23f10)
+- [Scikit-learn Cheat Sheets](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
