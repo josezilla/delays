@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-DEN-03](https://github.com/ga-students/DAT-DEN-03)
 
-Welcome to DAT-DEN-03
+Welcome to Data Science (DEN-03)
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. 
 
