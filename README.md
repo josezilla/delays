@@ -43,7 +43,7 @@ Below is a detailed schedule of our class:
 | Class | Date | Topic | Due (before class) |
 |:---:|:---|:---:|:---:|
 | 1 | Tue Nov 7 | [Intro to Data Science](lessons/lesson-01) | |
-| 2 | Thu Nov 9 | Research Design & Pandas | |
+| 2 | Thu Nov 9 | [Research Design & Pandas](lessons/lesson-02) | |
 | 3 | Tue Nov 14 | Statistics Fundamentals I | |
 | 4 | Thu Nov 16 | Statistics Fundamentals II |[Unit Project 1](projects/unit-projects/project-1)|
 | 5 | Tue Nov 21 | Intro to Industrial Data Science | |
