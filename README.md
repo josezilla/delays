@@ -83,3 +83,4 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Pandas Cheat Sheet](http://datacamp-community.s3.amazonaws.com/ef72e7cf-4768-4ff0-8e90-dfd7a1b23f10)
 - [Scikit-learn Cheat Sheet](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
 - [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+- [Scipy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
