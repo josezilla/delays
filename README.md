@@ -2,9 +2,6 @@
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. 
 
-You can also check this website: [https://ga-students.github.io/DAT-DEN-03/](https://ga-students.github.io/DAT-DEN-03/)
-
-
 ## Course Details
 * Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Nov 23, Dec 26, and Dec 28.
 * Time: Tuesdays and Thursdays; 6:30-9:30pm.
