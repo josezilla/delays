@@ -1,5 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-DEN-03](https://github.com/ga-students/DAT-DEN-03)
 
+
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. 
 
 ## Course Details
@@ -79,6 +80,8 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Python Self-Assessment Quiz](./python-self-assessment.md)
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
-- [Python Cheat Sheet](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
+- [Matplotib Cheat Sheet](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 - [Pandas Cheat Sheet](http://datacamp-community.s3.amazonaws.com/ef72e7cf-4768-4ff0-8e90-dfd7a1b23f10)
 - [Scikit-learn Cheat Sheet](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
+- [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+- [Scipy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
