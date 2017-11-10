@@ -61,9 +61,7 @@ Below is a detailed schedule of our class:
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
 | 20 | Tue Jan 23 | Final Project Presentation | Final Project 5|
 
-*(Syllabus last updated on 11-02-2017)*
-
-*To be rescheduled
+*(Syllabus last updated on 11-10-2017)*
 
 ## Installation and Setup
 
