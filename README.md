@@ -1,6 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-DEN-03](https://github.com/ga-students/DAT-DEN-03)
 
-Welcome to DAT-DEN-03
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science?where=denver) in Denver. 
 
@@ -49,22 +48,20 @@ Below is a detailed schedule of our class:
 | 6 | Tue Nov 28 | Linear Regression | |
 | 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | Unit Project 2|
 | 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
-| 9 | Thu Dec 7 | Logistic Regression | |
-| 10 | *Tue Dec 12** | Advanced Metrics and Communicating Results ||
+| 9 | Wed Dec 6 | Logistic Regression | |
+| 10 | Thu Dec 7 | Advanced Metrics and Communicating Results ||
 | 11 | Thu Dec 14 | Clustering |Unit Project 3|
 | 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
 | 13 | Thu Dec 21 |Natural Language Processing | |
-| 14 | Tue Jan 2 | Dimesionality Reduction | Final Project 2|
-| 15 | Thu Jan 4 | Intro to Time Series Analysis | Final Project 3|
-| 16 | Tue Jan 9 | Time Series Modeling | |
+| 14 | Tue Jan 2 | Dimesionality Reduction | |
+| 15 | Thu Jan 4 | Intro to Time Series Analysis ||
+| 16 | Tue Jan 9 | Time Series Modeling |Final Project 3|
 | 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
 | 18 | Tue Jan 16 | Advancing in Data Science | Final Project 4|
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
 | 20 | Tue Jan 23 | Final Project Presentation | Final Project 5|
 
-*(Syllabus last updated on 11-02-2017)*
-
-*To be rescheduled
+*(Syllabus last updated on 11-10-2017)*
 
 ## Installation and Setup
 
@@ -82,7 +79,7 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
 - [Matplotib Cheat Sheet](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
-- [Pandas Cheat Sheet](http://datacamp-community.s3.amazonaws.com/ef72e7cf-4768-4ff0-8e90-dfd7a1b23f10)
+- [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Scikit-learn Cheat Sheet](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
 - [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 - [Scipy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
