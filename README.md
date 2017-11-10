@@ -48,14 +48,14 @@ Below is a detailed schedule of our class:
 | 6 | Tue Nov 28 | Linear Regression | |
 | 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | Unit Project 2|
 | 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
-| 9 | Thu Dec 7 | Logistic Regression | |
-| 10 | *Tue Dec 12** | Advanced Metrics and Communicating Results ||
+| 9 | Wed Dec 6 | Logistic Regression | |
+| 10 | Thu Dec 7 | Advanced Metrics and Communicating Results ||
 | 11 | Thu Dec 14 | Clustering |Unit Project 3|
 | 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
 | 13 | Thu Dec 21 |Natural Language Processing | |
-| 14 | Tue Jan 2 | Dimesionality Reduction | Final Project 2|
-| 15 | Thu Jan 4 | Intro to Time Series Analysis | Final Project 3|
-| 16 | Tue Jan 9 | Time Series Modeling | |
+| 14 | Tue Jan 2 | Dimesionality Reduction | |
+| 15 | Thu Jan 4 | Intro to Time Series Analysis ||
+| 16 | Tue Jan 9 | Time Series Modeling |Final Project 3|
 | 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
 | 18 | Tue Jan 16 | Advancing in Data Science | Final Project 4|
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
