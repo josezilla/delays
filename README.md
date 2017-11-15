@@ -53,7 +53,7 @@ Below is a detailed schedule of our class:
 | 11 | Thu Dec 14 | Clustering |Unit Project 3|
 | 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
 | 13 | Thu Dec 21 |Natural Language Processing | |
-| 14 | Tue Jan 2 | Dimesionality Reduction | |
+| 14 | Wed Jan 3 | Dimesionality Reduction | |
 | 15 | Thu Jan 4 | Intro to Time Series Analysis ||
 | 16 | Tue Jan 9 | Time Series Modeling |Final Project 3|
 | 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
