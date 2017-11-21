@@ -43,10 +43,10 @@ Below is a detailed schedule of our class:
 | 1 | Tue Nov 7 | [Intro to Data Science](lessons/lesson-01) | |
 | 2 | Thu Nov 9 | [Research Design & Pandas](lessons/lesson-02) | |
 | 3 | Tue Nov 14 | [Statistics Fundamentals I](lessons/lesson-03) | |
-| 4 | Thu Nov 16 | Statistics Fundamentals II |[Unit Project 1](projects/unit-projects/project-1)|
-| 5 | Tue Nov 21 | Intro to Industrial Data Science | |
+| 4 | Thu Nov 16 | [Statistics Fundamentals II](lessons/lesson-04)|[Unit Project 1](projects/unit-projects/project-1)|
+| 5 | Tue Nov 21 | [Unit-1 Hands On Practice](lessons/lesson-05) | |
 | 6 | Tue Nov 28 | Linear Regression | |
-| 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | Unit Project 2|
+| 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | [Unit Project 2](projects/unit-projects/project-2)|
 | 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
 | 9 | Wed Dec 6 | Logistic Regression | |
 | 10 | Thu Dec 7 | Advanced Metrics and Communicating Results ||
@@ -61,7 +61,7 @@ Below is a detailed schedule of our class:
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
 | 20 | Tue Jan 23 | Final Project Presentation | Final Project 5|
 
-*(Syllabus last updated on 11-10-2017)*
+*(Syllabus last updated on 11-18-2017)*
 
 ## Installation and Setup
 
