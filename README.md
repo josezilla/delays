@@ -46,7 +46,7 @@ Below is a detailed schedule of our class:
 | 4 | Thu Nov 16 | [Statistics Fundamentals II](lessons/lesson-04)|[Unit Project 1](projects/unit-projects/project-1)|
 | 5 | Tue Nov 21 | [Unit-1 Hands On Practice](lessons/lesson-05) | |
 | 6 | Tue Nov 28 | [Linear Regression](lessons/lesson-06) | |
-| 7 | Thu Nov 30 | Linear Regression and Model Fit, Part 2 | [Unit Project 2](projects/unit-projects/project-2)|
+| 7 | Thu Nov 30 | [Linear Regression and Model Fit, Part 2]((lessons/lesson-07)| [Unit Project 2](projects/unit-projects/project-2)|
 | 8 | Tue Dec 5 | Intro to Classification |Final Project 1|
 | 9 | Wed Dec 6 | Logistic Regression | |
 | 10 | Thu Dec 7 | Advanced Metrics and Communicating Results ||
