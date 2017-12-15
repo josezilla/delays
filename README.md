@@ -49,8 +49,8 @@ Below is a detailed schedule of our class:
 | 7 | Thu Nov 30 | [Linear Regression and Model Fit, Part 2](lessons/lesson-07)| [Unit Project 2](projects/unit-projects/project-2)|
 | 8 | Tue Dec 5 | [Intro to Classification](lessons/lesson-08) |[Final Project 1](projects/final-projects/01-lightning-talk)|
 | 9 | Wed Dec 6 | [Logistic Regression](lessons/lesson-09) | |
-| 10 | Thu Dec 7 | Advanced Metrics and Communicating Results ||
-| 11 | Thu Dec 14 | Clustering |[Unit Project 3](projects/unit-projects/project-3)|
+| 10 | Thu Dec 7 |[Communicating Results](lessons/lesson-10) ||
+| 11 | Thu Dec 14 | [Clustering](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
 | 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
 | 13 | Thu Dec 21 |Natural Language Processing | |
 | 14 | Wed Jan 3 | Dimesionality Reduction | |
