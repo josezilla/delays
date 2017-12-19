@@ -51,7 +51,7 @@ Below is a detailed schedule of our class:
 | 9 | Wed Dec 6 | [Logistic Regression](lessons/lesson-09) | |
 | 10 | Thu Dec 7 |[Communicating Results](lessons/lesson-10) ||
 | 11 | Thu Dec 14 | [Clustering](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
-| 12 | Tue Dec 19 | Decision Trees and Random Forests |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 12 | Tue Dec 19 | [Decision Trees and Random Forests](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | Thu Dec 21 |Natural Language Processing | |
 | 14 | Wed Jan 3 | Dimesionality Reduction | |
 | 15 | Thu Jan 4 | Intro to Time Series Analysis ||
