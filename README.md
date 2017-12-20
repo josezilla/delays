@@ -6,8 +6,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 ## Course Details
 * Schedule: Nov 7, 2017 to Jan 23, 2018 - Except: Nov 23, Dec 26, and Dec 28.
 * Time: Tuesdays and Thursdays; 6:30-9:30pm.
-* Address: 3001 Brighton Boulevard, Denver, CO.
-* Office hours: Tuesday an Thursday between 5:00pm and 6:30pm (right before class).
+* Address: 3858 Walnut St, Denver, CO 80205.
+* Office hours: Tuesday an Thursday between 5:30pm and 6:30pm (right before class).
 
 ## Your Team
 **Instructor:**
@@ -51,7 +51,7 @@ Below is a detailed schedule of our class:
 | 9 | Wed Dec 6 | [Logistic Regression](lessons/lesson-09) | |
 | 10 | Thu Dec 7 |[Communicating Results](lessons/lesson-10) ||
 | 11 | Thu Dec 14 | [Clustering](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
-| 12 | Tue Dec 19 | Decision Trees and Random Forests |Final Project 2|
+| 12 | Tue Dec 19 | [Decision Trees and Random Forests](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | Thu Dec 21 |Natural Language Processing | |
 | 14 | Wed Jan 3 | Dimesionality Reduction | |
 | 15 | Thu Jan 4 | Intro to Time Series Analysis ||
