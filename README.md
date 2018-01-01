@@ -54,8 +54,8 @@ Below is a detailed schedule of our class:
 | 12 | Tue Dec 19 | [Decision Trees and Random Forests](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | Thu Dec 21 | [Natural Language Processing](lessons/lesson-13) | |
 | 14 | Wed Jan 3 | [Dimensionality Reduction in NLP](lessons/lesson-14) | |
-| 15 | Thu Jan 4 | Intro to Time Series Analysis ||
-| 16 | Tue Jan 9 | Time Series Modeling |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
+| 15 | Thu Jan 4 | [Time Series Analysis I](lessons/lesson-15) ||
+| 16 | Tue Jan 9 | [Time Series Modeling II](lessons/lesson-16) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
 | 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
 | 18 | Tue Jan 16 | Advancing in Data Science | Final Project 4|
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
