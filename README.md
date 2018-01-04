@@ -56,8 +56,8 @@ Below is a detailed schedule of our class:
 | 14 | Wed Jan 3 | [Dimensionality Reduction in NLP](lessons/lesson-14) | |
 | 15 | Thu Jan 4 | [Time Series Analysis I](lessons/lesson-15) ||
 | 16 | Tue Jan 9 | [Time Series Modeling II](lessons/lesson-16) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
-| 17 | Thu Jan 11 | [Intro to Databases](lessons/lesson-17) | [Unit Project 4](projects/unit-projects/project-4) |
-| 18 | Tue Jan 16 | [Advancing in Data Science](lessons/lesson-18) | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
+| 17 | Thu Jan 11 |[Advancing in Data Science](lessons/lesson-18) | [Unit Project 4](projects/unit-projects/project-4) |
+| 18 | Tue Jan 16 |  [Intro to Databases](lessons/lesson-17) | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
 | 20 | Tue Jan 23 | Final Project Presentation | [Final Project 5](projects/final-projects/05-presentation)|
 
