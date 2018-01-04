@@ -53,13 +53,13 @@ Below is a detailed schedule of our class:
 | 11 | Thu Dec 14 | [Clustering](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
 | 12 | Tue Dec 19 | [Decision Trees and Random Forests](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | Thu Dec 21 | [Natural Language Processing](lessons/lesson-13) | |
-| 14 | Wed Jan 3 | Dimesionality Reduction | |
-| 15 | Thu Jan 4 | Intro to Time Series Analysis ||
-| 16 | Tue Jan 9 | Time Series Modeling |Final Project 3|
-| 17 | Thu Jan 11 | Intro to Databases | Unit Project 4 |
-| 18 | Tue Jan 16 | Advancing in Data Science | Final Project 4|
+| 14 | Wed Jan 3 | [Dimensionality Reduction in NLP](lessons/lesson-14) | |
+| 15 | Thu Jan 4 | [Time Series Analysis I](lessons/lesson-15) ||
+| 16 | Tue Jan 9 | [Time Series Modeling II](lessons/lesson-16) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
+| 17 | Thu Jan 11 | [Intro to Databases](lessons/lesson-17) | [Unit Project 4](projects/unit-projects/project-4) |
+| 18 | Tue Jan 16 | [Advancing in Data Science](lessons/lesson-18) | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
 | 19 | Thu Jan 18| Neural Networks & Deep Learning | |
-| 20 | Tue Jan 23 | Final Project Presentation | Final Project 5|
+| 20 | Tue Jan 23 | Final Project Presentation | [Final Project 5](projects/final-projects/05-presentation)|
 
 *(Syllabus last updated on 11-18-2017)*
 
@@ -78,7 +78,7 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Python Self-Assessment Quiz](./python-self-assessment.md)
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
-- [Matplotib Cheat Sheet](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
+- [Matplotlib Cheat Sheet](http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Scikit-learn Cheat Sheet](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
 - [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
