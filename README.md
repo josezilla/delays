@@ -58,7 +58,7 @@ Below is a detailed schedule of our class:
 | 16 | Tue Jan 9 | [Time Series Modeling II](lessons/lesson-16) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
 | 17 | Thu Jan 11 |[Advancing in Data Science](lessons/lesson-18) | [Unit Project 4](projects/unit-projects/project-4) |
 | 18 | Tue Jan 16 |  [Intro to Databases](lessons/lesson-17) | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
-| 19 | Thu Jan 18| Industrial Data Science and Neural Networks | |
+| 19 | Thu Jan 18| [Industrial Data Science and Neural Networks](lessons/lesson-19) | |
 | 20 | Tue Jan 23 | Final Project Presentation | [Final Project 5](projects/final-projects/05-presentation)|
 
 *(Syllabus last updated on 11-18-2017)*
